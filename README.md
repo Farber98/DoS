@@ -11,4 +11,4 @@ The basic idea behind this vulnerability is to reject ether being sent from a sm
 
 ## How to prevent it
 
-👁️ Use the Pull over Push pattern, making users withdraw their funds (pull) instead of sending (push) them.
+👁️ Use the Pull over Push pattern, making users withdraw their funds (pull) instead of sending them (push).
